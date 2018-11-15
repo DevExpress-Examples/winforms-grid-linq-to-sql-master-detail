@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/LinqWithEditing/Form1.cs) (VB: [Form1.vb](./VB/LinqWithEditing/Form1.vb))
+* [Program.cs](./CS/LinqWithEditing/Program.cs) (VB: [Program.vb](./VB/LinqWithEditing/Program.vb))
+<!-- default file list end -->
 # How to configure an editable master-detail grid with LINQ to SQL objects
 
 
