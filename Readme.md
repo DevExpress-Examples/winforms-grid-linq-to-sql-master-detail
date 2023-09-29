@@ -6,9 +6,9 @@
 
 # WinForms Data Grid - Configure an editable master-detail grid with LINQ to SQL objects
 
-This example configures the WinForms Data Grid to display, edit, and save master-detail data. The grid control is bound a `DataContext` that is filled via LINQ to SQL.
+This example configures the WinForms Data Grid to display, edit, and save master-detail data. The grid control is bound to a `DataContext` that is filled via LINQ to SQL.
 
-To run the example, you need the Northwind demo database on a local MS SQL Server (SQL Express).
+To run the example, you need the Northwind demo database on a local Microsoft SQL Server (SQL Express).
 
 
 ## Files to Review
