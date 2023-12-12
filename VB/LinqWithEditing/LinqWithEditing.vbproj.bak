@@ -10,7 +10,7 @@
     <RootNamespace>
     </RootNamespace>
     <AssemblyName>LinqWithEditing</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <OptionExplicit>On</OptionExplicit>
     <OptionCompare>Binary</OptionCompare>
     <OptionStrict>Off</OptionStrict>
@@ -21,7 +21,6 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -43,40 +42,25 @@
     <NoWarn>42353,42354,42355</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Data.v8.2, Version=8.2.3.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1">
       <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.Printing.v13.1.Core.dll</HintPath>
+      <HintPath>D:\Projects\Test_Examples\DLLs\8.2.3\DevExpress.Data.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Utils.v8.2, Version=8.2.3.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1">
       <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.Data.v13.1.dll</HintPath>
+      <HintPath>D:\Projects\Test_Examples\DLLs\8.2.3\DevExpress.Utils.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.XtraEditors.v8.2, Version=8.2.3.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1">
       <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.Utils.v13.1.dll</HintPath>
+      <HintPath>D:\Projects\Test_Examples\DLLs\8.2.3\DevExpress.XtraEditors.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.XtraGrid.v8.2, Version=8.2.3.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1, processorArchitecture=MSIL">
       <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.XtraEditors.v13.1.dll</HintPath>
+      <HintPath>D:\Projects\Test_Examples\DLLs\8.2.3\DevExpress.XtraGrid.v8.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraLayout.v8.2, Version=8.2.3.0, Culture=neutral, PublicKeyToken=9B171C9FD64DA1D1">
       <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.XtraPrinting.v13.1.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.XtraGrid.v13.1.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
-      <Private>True</Private>
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\DevExpress.XtraLayout.v13.1.dll</HintPath>
+      <HintPath>D:\Projects\Test_Examples\DLLs\8.2.3\DevExpress.XtraLayout.v8.2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

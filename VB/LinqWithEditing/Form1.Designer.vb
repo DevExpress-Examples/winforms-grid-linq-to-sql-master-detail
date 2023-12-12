@@ -132,7 +132,7 @@ Namespace LinqWithEditing
 			' 
 			' categoryBindingSource
 			' 
-			Me.categoryBindingSource.DataSource = GetType(LinqWithEditing.Category)
+			Me.categoryBindingSource.DataSource = GetType(Category)
 			' 
 			' gridView1
 			' 
