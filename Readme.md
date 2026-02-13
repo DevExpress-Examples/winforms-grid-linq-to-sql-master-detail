@@ -22,7 +22,7 @@ To run the example, you need the Northwind demo database on a local Microsoft SQ
 * [Binding to LINQ to SQL Classes](https://docs.devexpress.com/WindowsForms/4057/common-features/data-binding/binding-to-linq-to-sql-classes)
 * [Master-Detail Relationships](https://docs.devexpress.com/WindowsForms/3473/controls-and-libraries/data-grid/master-detail-relationships)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-linq-to-sql-master-detail&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-linq-to-sql-master-detail&~~~was_helpful=no)
 
